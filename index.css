@@ -74,14 +74,14 @@ body{
 .weather-box .temperature{
     position: relative;
     color: #06283D;
-    font-size: 4rem;
+    font-size: 8rem;
     font-weight: 800;
     margin-top: -16px;
 }
 .weather-box .temperature span{
     position:absolute;
     margin-left: 4px;
-    font-size: 1.5rem;
+    font-size: 5.5rem;
 }
 .weather-box .description{
     color: #06283D;
